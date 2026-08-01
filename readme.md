@@ -17,4 +17,3 @@ HeartDiseaseDeployment/
 ├── requirements.txt # Python packages for environment setup
 ├── README.md        # Project documentation
 ├── train_model.py   # Training script for data preprocessing & modeling
-└── heart.csv        # Dataset source file
